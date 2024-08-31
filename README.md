@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bhavyax7673 - Bhavya Padaliya
+- 👀 I’m interested in Python Development
+- 🌱 I’m currently learning Core Python , Flask .
+- 💞️ I’m looking to collaborate on my projects
+- 📫 How to reach me : Instagram 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I Am A Little Lazy , But I Always Make My Work Done.
