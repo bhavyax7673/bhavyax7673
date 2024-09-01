@@ -5,7 +5,7 @@
 ![Welcome Banner](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) <!-- Welcome image -->
 
 ### 👀 About Me
-- 💻 **Passionate Developer** focused on Python and Backend Development.
+- 💻 **Passionate Computer Science Student** focused on Python and Backend Development.
 - 🌱 Currently diving deep into **Core Python** and **Flask**.
 - 🤝 Looking to collaborate on interesting projects and innovative ideas.
 - 📫 **Let's Connect**: Find me on [Instagram](https://www.instagram.com/padaliyabhavya) @padaliyabhavya.
