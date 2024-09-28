@@ -18,6 +18,6 @@ I am committed to continuous learning and actively seek opportunities to enhance
 
 ## 📫 Get in Touch
 - **Email:** [padaliyabhavya834@gmail.com](mailto:padaliyabhavya834@gmail.com)
-- **Instagram:** [@padaliyabhavya]("https://www.instagram.com/padaliyabhavya/")
+- **Instagram:** [padaliyabhavya]("https://www.instagram.com/padaliyabhavya/")
 
 Feel free to reach out for collaboration or inquiries. I'm excited to connect and explore opportunities in technology!
